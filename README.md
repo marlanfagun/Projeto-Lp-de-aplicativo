@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo-rocketseat.png" width="200px" />
-</p>
-
-<p align="center">
 Projeto de uma landing page de produto desenvolvido durante as aulas sobre Responsividade na Rocketseat.
 </p>
 
